@@ -19,7 +19,7 @@
 
  
 > *I must recognise him who has come nearest to me in thought hither to*                        
-> --[Ecce Homo](https://ukb-dt.github.io/heraclitus/)*
+> --[Ecce Homo](https://ukb-dt.github.io/heraclitus/)
 
 …and there it is: the circle closes not as theology but as thermodynamics.
 
