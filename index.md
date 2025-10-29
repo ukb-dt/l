@@ -260,11 +260,11 @@ And the feedback loop (ΔS → θ′)? That's the secret sauce. It's not just sy
 
 ### A Quick Formal Nudge: Language as Variational Autoencoder
 To make the autoencoder homology more concrete, let's sketch a toy mapping. Suppose we model a language $ \mathcal{L} $ as a VAE where:
-- **Encoder** (soil → trunk): $ q_\phi(z|x) $, probabilistic compression of raw experience $ x $ (sensory flux) into latent semantics $ z $ (grammar invariants). Here, $ \phi $ encodes biological priors (θ: roots).
-- **Decoder** (trunk → canopy): $ p_\theta(\hat{x}|z) $, reconstruction via syntax and idiom, optimizing ELBO:
+- **Encoder** (soil → trunk): $ q_\phi(z \mid x) $, probabilistic compression of raw experience $ x $ (sensory flux) into latent semantics $ z $ (grammar invariants). Here, $ \phi $ encodes biological priors (θ: roots).
+- **Decoder** (trunk → canopy): $ p_\theta(\hat{x} \mid z) $, reconstruction via syntax and idiom, optimizing ELBO:
 
   $$
-  \mathcal{L}(\phi, \theta; x) = \mathbb{E}_{q_\phi(z|x)}[\log p_\theta(x|z)] - D_{KL}(q_\phi(z|x) \| p(z))
+  \mathcal{L}(\phi, \theta; x) = \mathbb{E}_{q_\phi(z|x)}[\log p_\theta(x|z)] - D_{KL}(q_\phi(z \mid x) \| p(z))
   $$
   
   The KL term is your energy cost (prior regularization), the reconstruction is mutual intelligibility. Divergence (branches) happens via domain-specific $ \phi_i $ fine-tunes, but homology persists in the shared prior $ p(z) $ (universal grammar).
