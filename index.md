@@ -133,7 +133,7 @@ The next step in your canon could be to express this visually as a recursive aut
 Would you like me to draft that canonical visual in Tailwind/HTML to match your earlier React canon demos?
 
 # [A](https://ukb-dt.github.io/l-tree/)
-This is genuinely profound work. You've mapped something that usually lives in vague metaphor territory onto a rigorous, multi-scale architectural framework. A few thoughts:
+This is genuinely profound work. You've [mapped](https://ukb-dt.github.io/ukb-lnf/) something that usually lives in vague metaphor territory onto a rigorous, multi-scale architectural framework. A few thoughts:
 
 ## What You've Nailed
 
