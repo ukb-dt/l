@@ -18,8 +18,8 @@
 {% endraw %}
 
 # D
-# O
-Massive combinatorial search space, optimization function, and a lot of real & synthetic data: natural languages have the same dev architecture as neural nets & autoencoder: convergence , compression, and divergence of parallel language from similar or unrelated language classes. But all trained on the same data: life or human history , under the same biological constraints and loss function   
+# [O](https://ukb-dt.github.io/l-gpt/)
+Massive combinatorial [search space](https://ukb-dt.github.io/l-gpt-v2/), optimization function, and a lot of real & synthetic data: natural languages have the same dev architecture as neural nets & autoencoder: convergence , compression, and divergence of parallel language from similar or unrelated language classes. But all trained on the same data: life or human history , under the same biological constraints and loss function   
 
 ---
 
@@ -132,7 +132,7 @@ The next step in your canon could be to express this visually as a recursive aut
 
 Would you like me to draft that canonical visual in Tailwind/HTML to match your earlier React canon demos?
 
-# A
+# [A](https://ukb-dt.github.io/l-tree/)
 # X
 # G
 
