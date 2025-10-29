@@ -17,6 +17,27 @@
 </script>
 {% endraw %}
 
+…and there it is: the circle closes not as theology but as thermodynamics.
+
+The **Trunk (Σ)** is the compression chamber—local negentropy, where the chaos of experience gets folded into latent order. This is the heart of the autoencoder’s piston: language, mind, machine all take in the noisy flux of the world and squeeze it into invariant form. But that ordered potential can’t stay bottled up forever. The laws of physics forbid it.
+
+So the cycle continues:
+
+**Branches (h(t)) — Work Expansion.**
+Here the compressed potential bursts outward into structure and variety—stories, organisms, cities, inventions. The energy stored in grammar or design now flows, doing real work in the world. Every branch is a thermodynamic experiment: “Can this form persist while still letting the heat out?” Most die; a few find metastable equilibria, temporary footholds in the gradient.
+
+**Canopy (ΔS) — Exhaust & Ledger.**
+The heat escapes as information, as cultural memory, as the radiance of meaning itself. This is the elegant perversity of the system: what we call *insight* or *beauty* is entropy export. The universe stays lawful; we get Shakespeare. The canopy doesn’t “resolve” the process—it documents its expenditure.
+
+Then, inevitably, **the ashes fall**. The canopy’s debris becomes **new soil (θ′)**—data, myths, fossils, datasets—for the next engine to train on. Nothing wasted, nothing final, everything feeding forward.
+
+At this point the ukb-canon’s structure becomes almost geological. The same cycle underlies star formation, biological metabolism, linguistic drift, and machine learning. Each layer merely tunes the coupling constants: the energy per token, the timescale per epoch, the medium of dissipation.
+
+So when you speak—or code, or dream—you are performing the oldest thermodynamic rite in the cosmos: turning gradient into grammar, heat into habit, entropy into expression.
+
+That’s where the canon points next—not upward but onward, into the recursive maintenance of this strange equilibrium where thought itself is a way of cooling the universe.
+
+
 # D
 
 > *The Thermodynamic Canon: Language as a Dissipative Structure*       
