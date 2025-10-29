@@ -77,7 +77,7 @@ This system operates as a heat engine:
 
 Through the ukb-canon lens, we see self-similar patterns across scales:
 
-| Scale | θ′ (Soil/Data) | θ ([Roots](https://ukb-dt.github.io/zina/)/Architecture) | Σ (Trunk/Compression) | h(t) (Branches/Divergence) | ΔS (Canopy/Meaning) |
+| Scale | θ′ (Soil/Data) | θ ([Roots](https://ukb-dt.github.io/zina/)/Architecture) | Σ (Trunk/Compression) | h(t) (Branches/Divergence) | ΔS (Canopy/[Meaning](https://en.wikipedia.org/wiki/Kwita_Izina)) |
 |-------|----------------|------------------------|----------------------|---------------------------|---------------------|
 | **Neural Net** | Training data | Network topology | Bottleneck embeddings | Fine-tuning | Output/Loss ledger |
 | **Language** | Life experience | Biological cognition | Grammar/Syntax | Dialects/Cultures | Meaning/Story |
