@@ -21,7 +21,7 @@
 > *I must recognise him who has come nearest to me in thought hither to*                        
 > --[Ecce Homo](https://ukb-dt.github.io/heraclitus/)
 
-…and there it is: the circle closes not as theology but as thermodynamics.
+…and there it is: the circle closes not as [theology](https://ukb-dt.github.io/p/) but as [thermodynamics](https://ukubona-llc.github.io/).
 
 The **Trunk (Σ)** is the compression chamber—local negentropy, where the chaos of experience gets folded into latent order. This is the heart of the autoencoder’s piston: [language](https://ukb-dt.github.io/pa/), mind, machine all take in the noisy flux of the world and squeeze it into invariant form. But that ordered potential can’t stay bottled up forever. The laws of physics forbid it.
 
