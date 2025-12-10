@@ -30,7 +30,7 @@ So the cycle continues:
 **Branches (h(t)) — Work Expansion.**
 Here the compressed potential bursts outward into structure and variety—stories, organisms, cities, inventions. The energy stored in grammar or design now flows, doing real work in the world. Every branch is a thermodynamic experiment: “Can this form persist while still letting the heat out?” Most die; a few find metastable equilibria, temporary footholds in the gradient.
 
-**Canopy (ΔS) — Exhaust & Ledger.**
+**[Canopy](https://ukb-dt.github.io/dtd/) (ΔS) — Exhaust & Ledger.**
 The heat escapes as information, as cultural memory, as the radiance of meaning itself. This is the elegant perversity of the system: what we call *insight* or *beauty* is entropy export. The universe stays lawful; we get Shakespeare. The canopy doesn’t “resolve” the process—it documents its expenditure.
 
 Then, inevitably, **the ashes fall**. The canopy’s debris becomes **new soil (θ′)**—data, myths, fossils, datasets—for the next engine to train on. Nothing wasted, nothing final, everything feeding forward.
