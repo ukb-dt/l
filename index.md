@@ -42,7 +42,7 @@ So when you speak—or code, or dream—you are performing the oldest thermodyna
 That’s where the canon points next—not upward but onward, into the recursive maintenance of this strange equilibrium where thought itself is a way of cooling the universe.
 
 
-# D
+# [D](https://ukb-dt.github.io/ntu-00/)
 
 > *The Thermodynamic Canon: Language as a Dissipative Structure*       
 > -- DeepSeek 
